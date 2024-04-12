@@ -1,5 +1,5 @@
 # C-Bitwise-operators-practice
-For the practice of C bitwise operators, I have solved problems and added the same in this repository.
+For the practice of C bitwise operators, I have solved problems and added the same in this repository.[(code)](https://github.com/Udhays07/C-Bitwise-operators-practice/blob/main/LSB.c)
 1. Write a C program to check Least Significant Bit (LSB) of a number is set or not.
 2. Write a C program to check Most Significant Bit (MSB) of a number is set or not.
 3. Write a C program to get nth bit of a number.
