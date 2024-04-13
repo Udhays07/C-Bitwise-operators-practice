@@ -2,7 +2,7 @@
 For the practice of C bitwise operators, I have solved problems and added the same in this repository.
 1. Write a C program to check Least Significant Bit (LSB) of a number is set or not.[(code)](https://github.com/Udhays07/C-Bitwise-operators-practice/blob/main/LSB.c)
 2. Write a C program to check Most Significant Bit (MSB) of a number is set or not.[(code)](https://github.com/Udhays07/C-Bitwise-operators-practice/blob/main/MSB.c)
-3. Write a C program to get nth bit of a number.
+3. Write a C program to get nth bit of a number.[(code)](https://github.com/Udhays07/C-Bitwise-operators-practice/blob/main/Nthbit.c)
 4. Write a C program to set nth bit of a number.
 5. Write a C program to clear nth bit of a number.
 6. Write a C program to toggle nth bit of a number.
